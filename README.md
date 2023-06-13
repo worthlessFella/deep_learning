@@ -1,2 +1,2 @@
 # aagi
-aagi coding task
+Some random deep learning notebooks
